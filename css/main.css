@@ -42,7 +42,7 @@ nav li a:hover {
 .header-img {
     position: relative;
     height: 260px;
-    background-image: url(/kursik/strons/img/travel-2778331_1920.jpg);
+    background-image: url(../img/travel-2778331_1920.jpg);
     background-position: 50% 60%;
     background-repeat: no-repeat;
 }
@@ -95,13 +95,13 @@ section {
 }
 
 .top {
-    background-image: url(/kursik/strons/img/mountains-190055_1280.jpg);
+    background-image: url("/img/mountains-190055_1280.jpg");
 }
 .middle {
-    background-image: url(/kursik/strons/img/old-1130731_1920.jpg);
+    background-image: url("/img/old-1130731_1920.jpg");
 }
 .bottom {
-    background-image: url(/kursik/strons/img/volkswagen-569315_1920.jpg);
+    background-image: url("/img/volkswagen-569315_1920.jpg");
 }
 .about-me-text {
     position: absolute;
